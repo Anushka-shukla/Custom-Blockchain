@@ -3,6 +3,8 @@
 #### A Blockchain is a list of records called blocks that are linked together using linked lists and use the cryptographic technique.
 Each block contains its own digital fingerprint called Hash, the hash of the previous block, a timestamp and the data of the transaction made, making it more secure towards any kind of data breach.
 
+[How does blockchain work?](https://github.com/Anushka-shukla/Custom-Blockchain/blob/master/blkchain.png)
+
 ## Implementation of the Blockchain: 
 <ol>
 <li> Creating new Transactions</li>
