@@ -3,7 +3,7 @@
 #### A Blockchain is a list of records called blocks that are linked together using linked lists and use the cryptographic technique.
 Each block contains its own digital fingerprint called Hash, the hash of the previous block, a timestamp and the data of the transaction made, making it more secure towards any kind of data breach.
 
-<p align="center"><img src="https://github.com/Anushka-shukla/Custom-Blockchain/blob/master/blkchain.png" width="300"> 
+<p align="center"><img src="https://github.com/Anushka-shukla/Custom-Blockchain/blob/master/blkchain.png" width="800"> 
 
 ## Implementation of the Blockchain: 
 <ol>
