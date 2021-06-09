@@ -1,3 +1,11 @@
+- Logically, a (blockchain)[https://en.wikipedia.org/wiki/Blockchain#:~:text=Public%20blockchains,-A%20public%20blockchain&text=Usually%2C%20such%20networks%20offer%20economic,blockchain%20and%20the%20Ethereum%20blockchain.] can be seen as consisting of several layers:
+
+- infrastructure (hardware)
+- networking (node discovery, information propagation and verification)
+- consensus (proof of work, proof of stake)
+- data (blocks, transactions)
+- application (smart contracts/dApps, if applicable)
+
 - Every blockchain consists of a cluster of nodes functioning on a peer-to-peer (P2P) network system. Every node in a network has a copy of the shared ledger which gets updated timely. Each node can verify transactions, initiate or receive transactions and create blocks.
 - There are primarily two types of blockchains; Private and Public blockchain. However, there are several variations too, like Consortium and Hybrid blockchains.
 ##### Public Blockchain
