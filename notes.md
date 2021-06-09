@@ -42,7 +42,7 @@ Logically, a [blockchain](https://en.wikipedia.org/wiki/Blockchain#:~:text=Publi
 - Ethereum and Hyperledger are having [modular architechture](https://www.businessworldit.com/blockchain-cryptocurrency/which-platform-offers-a-modular-blockchain-in-architecture/)
 - [Further reading](https://philippsandner.medium.com/comparison-of-ethereum-hyperledger-fabric-and-corda-21c1bb9442f6)
 
-- There are 3 ways of storing information: Centarlised, decentralised, and distributed systems
+- There are three common types of a ledger that can be considered by users in the blockchain:
 ##### Centralised
 - Centralized systems are systems that use client/server architecture where one or more client nodes are directly connected to a central server. This is the most commonly used type of system in many organisations where client sends a request to a company server and receives the response.
 ##### Decentralised
@@ -89,6 +89,9 @@ Decred (DCR) is the most well-known cryptocurrency that uses the PoA consensus m
 
 - [Merkle tree](https://www.javatpoint.com/blockchain-merkle-tree#:~:text=Merkle%20tree%20is%20a%20fundamental,the%20transactions%20in%20a%20block.&text=Both%20Bitcoin%20and%20Ethereum%20use,also%20known%20as%20Hash%20Tree.) is a fundamental part of blockchain technology. It is a mathematical data structure composed of hashes of different blocks of data, and which serves as a summary of all the transactions in a block.
 
+##### DAO
+DAO stands for Decentralized Autonomous Organization
+
 ##### DAG
 - A DAG works in depth. This means that every node consists of multiple layers of transactions. When a transaction is registered in a node, it first has to verify two other transactions before his transaction will be verified. Those two transactions are chosen according to an algorithm.
 - [Directed Acyclic Graph](https://medium.com/@kotsbtechcdac/dag-will-overcome-blockchain-problems-dag-vs-blockchain-9ca302651122)
@@ -100,3 +103,6 @@ Decred (DCR) is the most well-known cryptocurrency that uses the PoA consensus m
 
 ##### [Fork](https://www.cmcmarkets.com/en/learn-cryptocurrencies/what-is-a-blockchain-fork)
 - Blockchain forks are essentially a split in the blockchain network.
+
+##### Some more references
+[Interview Questions](https://www.javatpoint.com/blockchain-interview-questions)
