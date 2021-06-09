@@ -48,7 +48,7 @@
 ##### Decentralised
 - A distributed ledger is a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions. Unlike with a centralized database, there is no central administrator.
 ##### Distributed
-- A distributed system allows resource sharing, including software by systems connected to the network. Examples of distributed systems / applications of distributed computing : Intranets, Internet, WWW, email. Telecommunication networks: Telephone networks and Cellular networks.
+- A distributed ledger is a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions. Unlike with a centralized database, there is no central administrator.
 - [Furthere readings](https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/)
 - [Furthere readings](https://medium.com/delta-exchange/centralized-vs-decentralized-vs-distributed-41d92d463868)
 - [Blockchain V/S DLT(Distributed ledger technology)](https://serokell.io/blog/blockchain-vs-dlt)
