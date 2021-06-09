@@ -1,7 +1,7 @@
 # Custom-Blockchain in JAVA
 ## Blockchain 
 #### Blockchain is a specific type of database. It differs from a typical database in the way it stores information; blockchains store data in blocks that are then chained together. As new data comes in it is entered into a fresh block.
-Each block contains its own digital fingerprint called Hash, the hash of the previous block, a timestamp and the data of the transaction made, making it more secure towards any kind of data breach.
+Each block contains its own digital fingerprint/signature called Hash, the hash of the previous block, a timestamp and the data of the transaction made, making it more secure towards any kind of data breach.
 
 <p align="center"><img src="https://github.com/Anushka-shukla/Custom-Blockchain/blob/master/blkchain.png" width="800"> 
 
