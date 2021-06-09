@@ -53,8 +53,18 @@ Logically, a [blockchain](https://en.wikipedia.org/wiki/Blockchain#:~:text=Publi
 - [Furthere readings](https://medium.com/delta-exchange/centralized-vs-decentralized-vs-distributed-41d92d463868)
 - [Blockchain V/S DLT(Distributed ledger technology)](https://serokell.io/blog/blockchain-vs-dlt)
 
+- [Ethereum classic](https://www.investopedia.com/terms/e/ethereum-classic.asp#:~:text=Key%20Takeaways-,Ethereum%20Classic%20is%20an%20open%2Dsource%2C%20decentralized%2C%20blockchain%2D,platform%20that%20runs%20smart%20contracts.&text=Ethereum%20Classic%20emerged%20as%20a,newer%20version%20created%20was%20Ethereum.)
+- [Further reading](https://en.wikipedia.org/wiki/Ethereum_Classic)
 
+- [The Impressive Hardware Used in Cryptocurrency Mining](https://medium.com/supplyframe-hardware/the-impressive-hardware-used-in-cryptocurrency-mining-31771edb857c)
+##### What hardware is needed for Bitcoin mining?
+You need either a GPU (graphics processing unit) or an application-specific integrated circuit (ASIC) in order to set up a mining rig.
 
+##### How does a transaction get into the blockchain?
+[Read](https://www.euromoney.com/learning/blockchain-explained/how-transactions-get-into-the-blockchain)
+
+##### How Does Bitcoin Mining Work?
+[Read](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
 
 
 
