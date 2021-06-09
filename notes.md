@@ -1,4 +1,4 @@
-Logically, a [blockchain](https://en.wikipedia.org/wiki/Blockchain#:~:text=Public%20blockchains,-A%20public%20blockchain&text=Usually%2C%20such%20networks%20offer%20economic,blockchain%20and%20the%20Ethereum%20blockchain.) can be seen as consisting of several layers:
+#### Logically, a [blockchain](https://en.wikipedia.org/wiki/Blockchain#:~:text=Public%20blockchains,-A%20public%20blockchain&text=Usually%2C%20such%20networks%20offer%20economic,blockchain%20and%20the%20Ethereum%20blockchain.) can be seen as consisting of several layers:
 
 - <ins>infrastructure (hardware)</ins>
 - <ins>networking (node discovery, information propagation and verification)</ins>
@@ -32,7 +32,7 @@ Logically, a [blockchain](https://en.wikipedia.org/wiki/Blockchain#:~:text=Publi
 ##### Hybrid Blockchain
 - A hybrid blockchain is a combination of the private and public blockchain. It uses the features of both types of blockchains that is one can have a private permission-based system as well as a public permission-less system. With such a hybrid network, users can control who gets access to which data stored in the blockchain. The hybrid system of blockchain is flexible so that users can easily join a private blockchain with multiple public blockchains. A transaction in a private network of a hybrid blockchain is usually verified within that network. But users can also release it in the public blockchain to get verified. The public blockchains increase the hashing and involve more nodes for verification. This enhances the security and transparency of the blockchain network. <b>Example</b> of a hybrid blockchain is Dragonchain.
 
-- Hyperledger, Ethereum, and Corda are some of the popular blockchain platforms at the moment.
+#### Hyperledger, Ethereum, and Corda are some of the popular blockchain platforms at the moment.
 ##### Hyperledger Fabric (Fabric)
 - [Hyperledger](https://hyperledger-fabric.readthedocs.io/en/release-2.2/blockchain.html#:~:text=Hyperledger%20Fabric%20is%20one%20of,it%20is%20private%20and%20permissioned.) is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It serves as a neutral home for various distributed ledger frameworks including Hyperledger Fabric, Sawtooth, Indy, as well as tools like Hyperledger Caliper and libraries like Hyperledger Ursa.
 ##### Ethereum
@@ -42,7 +42,7 @@ Logically, a [blockchain](https://en.wikipedia.org/wiki/Blockchain#:~:text=Publi
 - Ethereum and Hyperledger are having [modular architechture](https://www.businessworldit.com/blockchain-cryptocurrency/which-platform-offers-a-modular-blockchain-in-architecture/)
 - [Further reading](https://philippsandner.medium.com/comparison-of-ethereum-hyperledger-fabric-and-corda-21c1bb9442f6)
 
-- There are three common types of a ledger that can be considered by users in the blockchain:
+#### There are three common types of a ledger that can be considered by users in the blockchain:
 ##### Centralised
 - Centralized systems are systems that use client/server architecture where one or more client nodes are directly connected to a central server. This is the most commonly used type of system in many organisations where client sends a request to a company server and receives the response.
 ##### Decentralised
