@@ -89,7 +89,7 @@ Decred (DCR) is the most well-known cryptocurrency that uses the PoA consensus m
 
 - [Merkle tree](https://www.javatpoint.com/blockchain-merkle-tree#:~:text=Merkle%20tree%20is%20a%20fundamental,the%20transactions%20in%20a%20block.&text=Both%20Bitcoin%20and%20Ethereum%20use,also%20known%20as%20Hash%20Tree.) is a fundamental part of blockchain technology. It is a mathematical data structure composed of hashes of different blocks of data, and which serves as a summary of all the transactions in a block.
 
-##### [DAG]
+##### DAG
 - A DAG works in depth. This means that every node consists of multiple layers of transactions. When a transaction is registered in a node, it first has to verify two other transactions before his transaction will be verified. Those two transactions are chosen according to an algorithm.
 - [Directed Acyclic Graph](https://medium.com/@kotsbtechcdac/dag-will-overcome-blockchain-problems-dag-vs-blockchain-9ca302651122)
 
