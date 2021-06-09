@@ -18,4 +18,4 @@ Each block contains its own digital fingerprint called Hash, the hash of the pre
 - Since, Blockchain generated hashes of each block, therefore, it is very difficult to carry out malicious attacks.
 - Data Tampering will change the hash of each block which will make the blockchain invalid
 
-To read more on Blockchain I have made some [note](https://github.com/Anushka-shukla/Custom-Blockchain/blob/master/notes.md).
+To read more on Blockchain I have made some [notes](https://github.com/Anushka-shukla/Custom-Blockchain/blob/master/notes.md).
