@@ -1,4 +1,4 @@
-- Logically, a (blockchain)[https://en.wikipedia.org/wiki/Blockchain#:~:text=Public%20blockchains,-A%20public%20blockchain&text=Usually%2C%20such%20networks%20offer%20economic,blockchain%20and%20the%20Ethereum%20blockchain.] can be seen as consisting of several layers:
+- Logically, a [blockchain](https://en.wikipedia.org/wiki/Blockchain#:~:text=Public%20blockchains,-A%20public%20blockchain&text=Usually%2C%20such%20networks%20offer%20economic,blockchain%20and%20the%20Ethereum%20blockchain.) can be seen as consisting of several layers:
 
 - infrastructure (hardware)
 - networking (node discovery, information propagation and verification)
@@ -31,5 +31,30 @@
 - A consortium blockchain is a semi-decentralized type where more than one organization manages a blockchain network. This is contrary to what we saw in a private blockchain, which is managed by only a single organization. More than one organization can act as a node in this type of blockchain and exchange information or do mining. Consortium blockchains are typically used by <i>banks, government organizations, etc.</i> <b>Examples</b> of consortium blockchain are; Energy Web Foundation, R3, etc.
 ##### Hybrid Blockchain
 - A hybrid blockchain is a combination of the private and public blockchain. It uses the features of both types of blockchains that is one can have a private permission-based system as well as a public permission-less system. With such a hybrid network, users can control who gets access to which data stored in the blockchain. The hybrid system of blockchain is flexible so that users can easily join a private blockchain with multiple public blockchains. A transaction in a private network of a hybrid blockchain is usually verified within that network. But users can also release it in the public blockchain to get verified. The public blockchains increase the hashing and involve more nodes for verification. This enhances the security and transparency of the blockchain network. <b>Example</b> of a hybrid blockchain is Dragonchain.
+
+- Hyperledger, Ethereum, and Corda are some of the popular blockchain platforms at the moment.
+##### Hyperledger Fabric (Fabric)
+- [Hyperledger](https://hyperledger-fabric.readthedocs.io/en/release-2.2/blockchain.html#:~:text=Hyperledger%20Fabric%20is%20one%20of,it%20is%20private%20and%20permissioned.) is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It serves as a neutral home for various distributed ledger frameworks including Hyperledger Fabric, Sawtooth, Indy, as well as tools like Hyperledger Caliper and libraries like Hyperledger Ursa.
+##### Ethereum
+- [Ethereum](https://ethereum.org/en/) is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. After Bitcoin, it is the second-largest cryptocurrency by market capitalization. 
+##### R3 Corda(Corda)
+- Corda is a permissioned blockchain platform that powers DLT applications that enable businesses to transact directly and in strict privacy with one another. Corda Enterprise-powered solutions deliver: Multi-party transparency. 
+- Ethereum and Hyperledger are having [modular architechture](https://www.businessworldit.com/blockchain-cryptocurrency/which-platform-offers-a-modular-blockchain-in-architecture/)
+- [Further reading](https://philippsandner.medium.com/comparison-of-ethereum-hyperledger-fabric-and-corda-21c1bb9442f6)
+
+- There are 3 ways of storing information: Centarlised, decentralised, and distributed systems
+##### Centralised
+- Centralized systems are systems that use client/server architecture where one or more client nodes are directly connected to a central server. This is the most commonly used type of system in many organisations where client sends a request to a company server and receives the response.
+##### Decentralised
+-In decentralized systems, every node makes its own decision. The final behavior of the system is the aggregate of the decisions of the individual nodes. Note that there is no single entity that receives and responds to the request.
+##### Distributed
+- A distributed system allows resource sharing, including software by systems connected to the network. Examples of distributed systems / applications of distributed computing : Intranets, Internet, WWW, email. Telecommunication networks: Telephone networks and Cellular networks.
+- [Furthere readings](https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/)
+- [Furthere readings](https://medium.com/delta-exchange/centralized-vs-decentralized-vs-distributed-41d92d463868)
+- [Blockchain V/S DLT(Distributed ledger technology)](https://serokell.io/blog/blockchain-vs-dlt)
+
+
+
+
 
 
