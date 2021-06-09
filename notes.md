@@ -46,7 +46,7 @@
 ##### Centralised
 - Centralized systems are systems that use client/server architecture where one or more client nodes are directly connected to a central server. This is the most commonly used type of system in many organisations where client sends a request to a company server and receives the response.
 ##### Decentralised
--In decentralized systems, every node makes its own decision. The final behavior of the system is the aggregate of the decisions of the individual nodes. Note that there is no single entity that receives and responds to the request.
+- A distributed ledger is a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions. Unlike with a centralized database, there is no central administrator.
 ##### Distributed
 - A distributed system allows resource sharing, including software by systems connected to the network. Examples of distributed systems / applications of distributed computing : Intranets, Internet, WWW, email. Telecommunication networks: Telephone networks and Cellular networks.
 - [Furthere readings](https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/)
