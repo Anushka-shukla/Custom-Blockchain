@@ -106,3 +106,4 @@ DAO stands for Decentralized Autonomous Organization
 
 ##### Some more references
 [Interview Questions](https://www.javatpoint.com/blockchain-interview-questions)
+[Some More](https://www.simplilearn.com/tutorials/blockchain-tutorial/blockchain-interview-questions)
