@@ -1,4 +1,4 @@
-- Logically, a [blockchain](https://en.wikipedia.org/wiki/Blockchain#:~:text=Public%20blockchains,-A%20public%20blockchain&text=Usually%2C%20such%20networks%20offer%20economic,blockchain%20and%20the%20Ethereum%20blockchain.) can be seen as consisting of several layers:
+Logically, a [blockchain](https://en.wikipedia.org/wiki/Blockchain#:~:text=Public%20blockchains,-A%20public%20blockchain&text=Usually%2C%20such%20networks%20offer%20economic,blockchain%20and%20the%20Ethereum%20blockchain.) can be seen as consisting of several layers:
 
 - infrastructure (hardware)
 - networking (node discovery, information propagation and verification)
