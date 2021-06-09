@@ -66,5 +66,37 @@ You need either a GPU (graphics processing unit) or an application-specific inte
 ##### How Does Bitcoin Mining Work?
 [Read](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
 
+##### [Nonce](https://www.investopedia.com/terms/n/nonce.asp)
+- "number only used once," refers to the first number a blockchain miner needs to discover before solving for a block in the blockchain.
+Once the mathematical computations are solved by the miner, they are gifted cryptocurrency for their time and skill.
+Nonce is difficult to find and is considered a way to weed out the less talented crypto miners.
 
+##### [POW](https://www.coindesk.com/what-is-proof-of-work)
+- Proof-of-work is a necessary part of adding new blocks to the Bitcoin blockchain.
 
+##### [POS](https://www.investopedia.com/terms/p/proof-stake-pos.asp#:~:text=Proof%20of%20Stake%20(POS)%20was,new%20blocks%20to%20the%20chain.)
+- With Proof of Stake (POS), cryptocurrency miners can mine or validate block transactions based on the amount of coins a miner holds.
+Proof of Stake (POS) was created as an alternative to Proof of Work (POW), which is the original consensus algorithm in Blockchain technology, used to confirm transactions and add new blocks to the chain.
+
+##### [POA](https://www.investopedia.com/terms/p/proof-activity-cryptocurrency.asp#:~:text=Proof%2Dof%2Dactivity%20(PoA)%20is%20a%20blockchain%20consensus,miners%20arrive%20at%20a%20consensus.)
+- Proof-of-activity (PoA) is a blockchain consensus algorithm that is a combination of two other blockchain consensus algorithms: proof-of-work (PoW) and proof-of-stake (PoS).
+The PoA system is an attempt to combine the best aspects of both the PoW and the PoS systems; the mining process begins like a PoW system, but after a new block has been successfully mined, the system switches to resemble a PoS system.
+Decred (DCR) is the most well-known cryptocurrency that uses the PoA consensus mechanism.
+
+##### ZKP
+- [Zero Knowledge Proofs](https://101blockchains.com/zero-knowledge-proof-blockchain/#:~:text=The%20three%20fundamental%20aspects%20characterizing,the%20design%20of%20a%20ZKP.)
+- In cryptography, a zero-knowledge proof or zero-knowledge protocol is a method by which one party (the prover) can prove to another party (the verifier) that they know a value x , without conveying any information apart from the fact that they know the value x .
+
+- [Merkle tree](https://www.javatpoint.com/blockchain-merkle-tree#:~:text=Merkle%20tree%20is%20a%20fundamental,the%20transactions%20in%20a%20block.&text=Both%20Bitcoin%20and%20Ethereum%20use,also%20known%20as%20Hash%20Tree.) is a fundamental part of blockchain technology. It is a mathematical data structure composed of hashes of different blocks of data, and which serves as a summary of all the transactions in a block.
+
+##### [DAG]
+- A DAG works in depth. This means that every node consists of multiple layers of transactions. When a transaction is registered in a node, it first has to verify two other transactions before his transaction will be verified. Those two transactions are chosen according to an algorithm.
+- [Directed Acyclic Graph](https://medium.com/@kotsbtechcdac/dag-will-overcome-blockchain-problems-dag-vs-blockchain-9ca302651122)
+
+##### Consortium
+- Federated blockchain or consortium blockchain is a blockchain technology where instead of only a single organization, multiple organizations govern the platform. It's not a public platform rather a permissioned platform.
+##### [Consensus](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/#:~:text=Essentially%2C%20the%20consensus%20protocol%20makes,the%20nodes%20in%20the%20Blockchain.&text=Thus%2C%20a%20consensus%20algorithm%20aims,win%20for%20the%20entire%20network.)
+- The consensus protocol makes sure that every new block that is added to the Blockchain is the one and only version of the truth that is agreed upon by all the nodes in the Blockchain.
+
+##### [Fork](https://www.cmcmarkets.com/en/learn-cryptocurrencies/what-is-a-blockchain-fork)
+- Blockchain forks are essentially a split in the blockchain network.
