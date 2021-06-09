@@ -15,7 +15,7 @@ Each block contains its own digital fingerprint/signature called Hash, the hash 
 ## Advantages of the Blockchain
 
 - Blokchain is a distributed network of systems. Therefore, data breaches are very difficult to be carried out.
-- Since, Blockchain generated hashes of each block, therefore, it is very difficult to carry out malicious attacks.
+- Since, Blockchain generated hashes of each block, therefore, it is very difficult to carry out malicious attacks with the data stored in them.
 - Data Tampering will change the hash of each block which will make the blockchain invalid
-
+(tampering involves the malicious modiﬁcation of data by an unauthorised user. Data exists in two states; either in transit or stored. In both cases, data. could be intercepted and tampered)
 To read more on Blockchain I have made some [notes](https://github.com/Anushka-shukla/Custom-Blockchain/blob/master/notes.md).
