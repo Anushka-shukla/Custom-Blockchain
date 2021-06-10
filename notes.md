@@ -1,3 +1,7 @@
+##### Each block in blockchain consists of:
+1. A hash pointer to the previous block
+2. Timestamp
+3. List of transactions
 #### Logically, a [blockchain](https://en.wikipedia.org/wiki/Blockchain#:~:text=Public%20blockchains,-A%20public%20blockchain&text=Usually%2C%20such%20networks%20offer%20economic,blockchain%20and%20the%20Ethereum%20blockchain.) can be seen as consisting of several layers:
 
 - <ins>infrastructure (hardware)</ins>
