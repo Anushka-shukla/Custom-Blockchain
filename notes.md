@@ -108,6 +108,12 @@ DAO stands for Decentralized Autonomous Organization
 ##### [Fork](https://www.cmcmarkets.com/en/learn-cryptocurrencies/what-is-a-blockchain-fork)
 - Blockchain forks are essentially a split in the blockchain network.
 
+##### IPFS
+IPFS is a file sharing system that can be leveraged to more efficiently store and share large files. It relies on cryptographic hashes that can easily be stored on a blockchain. Nonetheless, IPFS does not permit users to share files with selected parties.
+
+##### NFT
+A non-fungible token is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable. NFTs can be used to represent items such as photos, videos, audio, and other types of digital files.
+
 ##### Some more references
 [Interview Questions](https://www.javatpoint.com/blockchain-interview-questions)
 [Some More](https://www.simplilearn.com/tutorials/blockchain-tutorial/blockchain-interview-questions)
