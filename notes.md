@@ -53,7 +53,7 @@
 - A distributed ledger is a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions. Unlike with a centralized database, there is no central administrator.
 ##### Distributed
 - A distributed ledger is a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions. Unlike with a centralized database, there is no central administrator.
-- [Furthr readings](https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/)
+- [Further readings](https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/)
 - [Further readings](https://medium.com/delta-exchange/centralized-vs-decentralized-vs-distributed-41d92d463868)
 - [Blockchain V/S DLT(Distributed ledger technology)](https://serokell.io/blog/blockchain-vs-dlt)
 
