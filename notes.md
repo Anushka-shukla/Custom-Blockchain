@@ -114,6 +114,15 @@ IPFS is a file sharing system that can be leveraged to more efficiently store an
 ##### NFT
 A non-fungible token is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable. NFTs can be used to represent items such as photos, videos, audio, and other types of digital files.
 
+##### There are many types of consensus algorithms or techniques available. The most popular consensus algorithm is:
+
+- Proof-of-Work(PoW)
+- Proof-of-Stake(PoS)
+- Delegated Proof-of-Stake(DPoS)
+- Proof-of-Authority(PoA)
+- Proof-of-Elapsed Time(PoET)
+- Byzantine Fault Tolerance
+
 ##### Some more references
 [Interview Questions](https://www.javatpoint.com/blockchain-interview-questions)
 [Some More](https://www.simplilearn.com/tutorials/blockchain-tutorial/blockchain-interview-questions)
