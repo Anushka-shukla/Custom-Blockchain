@@ -46,15 +46,15 @@
 - Ethereum and Hyperledger are having [modular architechture](https://www.businessworldit.com/blockchain-cryptocurrency/which-platform-offers-a-modular-blockchain-in-architecture/)
 - [Further reading](https://philippsandner.medium.com/comparison-of-ethereum-hyperledger-fabric-and-corda-21c1bb9442f6)
 
-#### There are three common types of a ledger that can be considered by users in the blockchain:
+#### There are three common types of a ledger(contantly growing file) that can be considered by users in the blockchain:
 ##### Centralised
 - Centralized systems are systems that use client/server architecture where one or more client nodes are directly connected to a central server. This is the most commonly used type of system in many organisations where client sends a request to a company server and receives the response.
 ##### Decentralised
 - A distributed ledger is a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions. Unlike with a centralized database, there is no central administrator.
 ##### Distributed
 - A distributed ledger is a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions. Unlike with a centralized database, there is no central administrator.
-- [Furthere readings](https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/)
-- [Furthere readings](https://medium.com/delta-exchange/centralized-vs-decentralized-vs-distributed-41d92d463868)
+- [Furthr readings](https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/)
+- [Further readings](https://medium.com/delta-exchange/centralized-vs-decentralized-vs-distributed-41d92d463868)
 - [Blockchain V/S DLT(Distributed ledger technology)](https://serokell.io/blog/blockchain-vs-dlt)
 
 - [Ethereum classic](https://www.investopedia.com/terms/e/ethereum-classic.asp#:~:text=Key%20Takeaways-,Ethereum%20Classic%20is%20an%20open%2Dsource%2C%20decentralized%2C%20blockchain%2D,platform%20that%20runs%20smart%20contracts.&text=Ethereum%20Classic%20emerged%20as%20a,newer%20version%20created%20was%20Ethereum.)
