@@ -123,6 +123,14 @@ A non-fungible token is a unit of data stored on a digital ledger, called a bloc
 - Proof-of-Elapsed Time(PoET)
 - Byzantine Fault Tolerance
 
+##### Extensively used cryptographic algorithms.
+
+SHA - 256
+RSA (Rivest-Shamir-Adleman)
+Triple DES
+Ethash
+Blowfish
+
 ##### Some more references
 [Interview Questions](https://www.javatpoint.com/blockchain-interview-questions)
 [Some More](https://www.simplilearn.com/tutorials/blockchain-tutorial/blockchain-interview-questions)
