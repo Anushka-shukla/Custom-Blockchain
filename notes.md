@@ -125,11 +125,11 @@ A non-fungible token is a unit of data stored on a digital ledger, called a bloc
 
 ##### Extensively used cryptographic algorithms.
 
-SHA - 256
-RSA (Rivest-Shamir-Adleman)
-Triple DES
-Ethash
-Blowfish
+- SHA - 256
+- RSA (Rivest-Shamir-Adleman)
+- Triple DES
+- Ethash
+- Blowfish
 
 ##### Some more references
 [Interview Questions](https://www.javatpoint.com/blockchain-interview-questions)
