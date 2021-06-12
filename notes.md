@@ -131,6 +131,9 @@ A non-fungible token is a unit of data stored on a digital ledger, called a bloc
 - Ethash
 - Blowfish
 
+##### 51% Attack
+ a 51% attack refers to a vulnerability where an individual or group of people controls the majority of the mining power (hash rate). This allows attackers to prevent new transactions from being confirmed. Further, they can double-spend the coins. In a 51% attack, smaller cryptocurrencies are being attacked.
+
 ##### Some more references
 [Interview Questions](https://www.javatpoint.com/blockchain-interview-questions)
 [Some More](https://www.simplilearn.com/tutorials/blockchain-tutorial/blockchain-interview-questions)
