@@ -91,7 +91,7 @@ Decred (DCR) is the most well-known cryptocurrency that uses the PoA consensus m
 - [Zero Knowledge Proofs](https://101blockchains.com/zero-knowledge-proof-blockchain/#:~:text=The%20three%20fundamental%20aspects%20characterizing,the%20design%20of%20a%20ZKP.)
 - In cryptography, a zero-knowledge proof or zero-knowledge protocol is a method by which one party (the prover) can prove to another party (the verifier) that they know a value x , without conveying any information apart from the fact that they know the value x .
 
-- [Merkle tree](https://www.javatpoint.com/blockchain-merkle-tree#:~:text=Merkle%20tree%20is%20a%20fundamental,the%20transactions%20in%20a%20block.&text=Both%20Bitcoin%20and%20Ethereum%20use,also%20known%20as%20Hash%20Tree.) is a fundamental part of blockchain technology. It is a mathematical data structure composed of hashes of different blocks of data, and which serves as a summary of all the transactions in a block.
+- [Merkle tree](https://www.javatpoint.com/blockchain-merkle-tree#:~:text=Merkle%20tree%20is%20a%20fundamental,the%20transactions%20in%20a%20block.&text=Both%20Bitcoin%20and%20Ethereum%20use,also%20known%20as%20Hash%20Tree.) is a data structure that is used for verifying a block. It is in the form of a binary tree containing cryptographic hashes of each block.
 
 ##### DAO
 DAO stands for Decentralized Autonomous Organization
